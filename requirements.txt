@@ -1,0 +1,24 @@
+# 1. Data Manipulation and Numerical Computing
+pandas
+numpy
+
+# 2. Data Visualization and Exploratory Data Analysis
+matplotlib
+seaborn
+
+# 3. Machine Learning and Demand Prediction
+scikit-learn
+
+# 4. Saving and Loading Trained Machine Learning Models
+joblib
+
+# 5. Interactive Web Dashboard
+streamlit
+
+# 6. Backend API Development
+fastapi
+uvicorn[standard]
+pydantic
+
+# 7. Testing and Quality Assurance
+pytest

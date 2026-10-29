@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Virtual environment
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data and generated models
+data/processed/*
+!data/processed/.gitkeep
+models/*
+!models/.gitkeep
+outputs/charts/*
+!outputs/charts/.gitkeep
+outputs/reports/*
+!outputs/reports/.gitkeep
+
+# Secrets
+.env
+
+# Operating system
+.DS_Store
